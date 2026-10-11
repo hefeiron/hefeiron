@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hefeiron/hefeiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hefei**, a developer passionate about creating elegant solutions and meaningful products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Building things that matter. Focused on clean code, great design, and solving real problems.
+
+Interested in **full-stack development**, **product thinking**, and **continuous learning**.
+
+---
+
+## What I Do
+
+🎯 Design and develop scalable applications  
+🎨 Craft thoughtful user experiences  
+🚀 Transform ideas into working software  
+📖 Share knowledge through code and documentation  
+
+---
+
+## Let's Connect
+
+- **GitHub** → [@hefeiron](https://github.com/hefeiron)
+- **Email** → your-email@example.com
+
+---
+
+> *Code tells stories. Let's write good ones together.*
